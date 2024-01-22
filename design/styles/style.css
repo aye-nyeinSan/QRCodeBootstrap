@@ -1,0 +1,19 @@
+.container {
+    background-color: rgb(190, 215, 255);
+}
+.qrCode {
+    border-radius: 20px;
+}
+.mycard {
+    background-color: rgb(255, 255, 255);
+    box-shadow:  3px 3px 3px hsla(217, 42%, 28%, 0.541);
+    width: 160px;
+    height:350px;
+    border-radius: 15px;
+    box-sizing: content-box;
+}
+.customtext{
+    font-size: 18px;
+    font-weight: 700;
+    
+}
